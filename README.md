@@ -3,6 +3,10 @@
 ## Executive Summary
 The goal of this project is to classify news as either likely true or likely fake based on a dataset of over 60,000 news articles, approximately half of which are true and half of which are fake. The articles used in the training data have been labeled as true / fake by the organization PolitiFact and come from different news sources. We have run 6 different models, the winner of which is a Recurrent Neural Network with an Long Short-Term Memory architecture. Finally, we have deployed the model for user application using Streamlit. 
 
+See slides presentation at document "Ironhack - Data Analysis - Final Project - JB.pdf" above. 
+
+See SQL queries at "SQL_queries_Fake_News_Detector_JB.sql". 
+
 ## Data 
 
 ### Sources
